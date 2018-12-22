@@ -10,8 +10,7 @@ class App extends Component {
              <h1>Plant Monitor</h1>
         </header>
         <body>
-            {/* <Barometer />
-            <Temperature/> */}
+
 
         </body>
              
